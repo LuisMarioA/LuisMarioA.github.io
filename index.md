@@ -1,5 +1,5 @@
 
-<img src="src" alt="Image" />
+<img src="foto.jpg" alt="Image" />
 <h2 id="education">Education</h2>
 
 <p> 20 Years </p>
@@ -15,6 +15,7 @@
 <p>Software: C, Java, Python, Microsoft Office</p>
 
 <h2 id="public-key">Public Key</h2>
+<a href="publicKey.key" download>
 
 <p>Syntax highlighted code block</p>
 
