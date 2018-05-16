@@ -1,5 +1,5 @@
 # Luis Mario Aburto Pérez
-[Image] ("imagen.jpg")
+![Image] ("imagen.jpg")
 ## Education
 
 ## Work Experience
