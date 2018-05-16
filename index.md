@@ -1,8 +1,11 @@
 ## Luis Mario Aburto Pérez
 
 20 Years
+
 Mexico City, Mexico
+
 Phone 55 67293024
+
 luismario.escom@gmail.com
 
 ### Education
