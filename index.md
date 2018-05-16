@@ -1,5 +1,5 @@
 
-<img src="miFoto.jpg" alt="Image" />
+<img src="miFoto.jpg" alt="Image" height="250" width="250"/>
 <h2 id="education">Education</h2>
 
 <p> 20 Years </p>
