@@ -25,26 +25,3 @@
 <p><strong>Bold</strong> and <em>Italic</em> and <code class="highlighter-rouge">Code</code> text</p>
 
 <p><a href="url">Link</a> and <img src="src" alt="Image" /></p>
-
-      </section>
-
-      <footer>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            
-            
-              <p>Projects by <a href="https://github.com/LuisMarioA">LuisMarioA</a> can be found on <a href="https://github.com/LuisMarioA/LuisMarioA.github.io">GitHub</a></p>
-            
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
-        <span class="octocat"></span>
-      </footer>
-
-    </div>
-
-    
-  </body>
-</html>
