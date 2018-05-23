@@ -17,23 +17,3 @@
 <h2 id="public-key">Public Key</h2>
 <a href="RSAPublicKey.key" download> Public Key </a>
 <a href="LuisMarioAburtoPerez_pub.asc" download> Public Key TOOL</a>
-
-<p>Syntax highlighted code block No va</p>
-
-<h1 id="header-1">Header 1</h1>
-<h2 id="header-2">Header 2</h2>
-<h3 id="header-3">Header 3</h3>
-
-<ul>
-  <li>Bulleted</li>
-  <li>List</li>
-</ul>
-
-<ol>
-  <li>Numbered</li>
-  <li>List</li>
-</ol>
-
-<p><strong>Bold</strong> and <em>Italic</em> and <code class="highlighter-rouge">Code</code> text</p>
-
-<p><a href="url">Link</a> and <img src="src" alt="Image" /></p>
