@@ -15,5 +15,5 @@
 <p>Software: C, Java, Python, Microsoft Office</p>
 
 <h2 id="public-key">Public Key</h2>
-<a href="publicRSAKey.key" download> Public Key </a>
+<a href="publicaRSAKey.key" download> Public Key </a>
 <a href="LuisMarioAburtoPerez_pub.asc" download> Public Key TOOL</a>
